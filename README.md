@@ -1,4 +1,4 @@
-# TEMPLATE-PROJECT-NAME
+# Matter Rb
 
 *[Description goes here]*
 
@@ -16,4 +16,4 @@
 
 ## License
 
-The `TEMPLATE-GEM-NAME` library is released under the [MIT License](MIT-License.txt).
+The `matter-rb` library is released under the [MIT License](MIT-License.txt).
