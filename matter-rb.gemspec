@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'matter-rb'
-  spec.version = "0.0.0.0"
+  spec.version = "0.1.0.0"
   spec.summary = "Some summary"
   spec.description = ' '
 
